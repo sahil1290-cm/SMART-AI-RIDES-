@@ -1,0 +1,101 @@
+App,Mode,Origin,Destination,DepartureHour,ArrivalHour,Price
+Curb,SUV,New York,Los Angeles,7,8,76.28
+Bolt,Hatchback,Phoenix,New York,1,2,18.43
+Bolt,SUV,Los Angeles,New York,22,23,73.12
+Ola,Luxury,Houston,Los Angeles,8,9,78.29
+Curb,Electric,Los Angeles,Phoenix,4,5,96.15
+Uber,Hatchback,Chicago,New York,3,5,86.27
+Uber,Hatchback,Phoenix,Chicago,17,18,97.58
+Bolt,Electric,Houston,New York,20,23,89.69
+Uber,Sedan,Chicago,Los Angeles,21,22,79.58
+Uber,Hatchback,New York,Chicago,8,10,67.21
+Curb,Electric,Chicago,Los Angeles,6,9,34.03
+Bolt,SUV,New York,Chicago,5,7,44.15
+Curb,Sedan,Phoenix,Los Angeles,7,8,82.45
+Uber,SUV,Houston,Chicago,18,21,38.32
+Ola,SUV,Houston,Phoenix,8,9,32.2
+Bolt,Hatchback,Phoenix,Chicago,18,20,42.58
+Uber,Sedan,Los Angeles,Phoenix,3,4,66.47
+Ola,Hatchback,Houston,New York,19,21,57.62
+Uber,Luxury,Phoenix,New York,8,11,40.62
+Lyft,Hatchback,Chicago,Phoenix,0,3,88.83
+Bolt,Sedan,Chicago,Los Angeles,20,22,85.75
+Lyft,Electric,Phoenix,Los Angeles,5,8,95.81
+Bolt,Electric,Phoenix,New York,15,16,20.07
+Lyft,Sedan,Chicago,Houston,7,10,95.23
+Uber,Luxury,New York,Phoenix,4,5,69.38
+Curb,Luxury,Phoenix,Los Angeles,19,21,96.79
+Curb,Hatchback,Phoenix,Los Angeles,21,23,43.61
+Uber,SUV,Phoenix,Houston,7,8,40.43
+Bolt,SUV,Phoenix,Los Angeles,0,1,73.71
+Uber,Sedan,New York,Chicago,10,11,56.27
+Lyft,Luxury,Chicago,Phoenix,4,7,94.2
+Lyft,Hatchback,Phoenix,Houston,13,14,18.49
+Ola,Hatchback,Houston,Chicago,14,17,14.88
+Ola,Electric,New York,Los Angeles,3,4,27.24
+Lyft,Hatchback,Phoenix,Houston,5,7,51.64
+Bolt,Sedan,New York,Phoenix,1,4,99.94
+Lyft,SUV,New York,Los Angeles,13,15,53.32
+Lyft,Hatchback,Houston,New York,0,2,33.87
+Ola,Luxury,Houston,Chicago,21,23,53.8
+Lyft,Sedan,Los Angeles,Houston,18,21,58.8
+Uber,Luxury,Chicago,New York,15,18,92.74
+Uber,Luxury,Phoenix,Los Angeles,2,3,16.17
+Ola,Sedan,New York,Chicago,18,19,62.1
+Ola,Luxury,New York,Los Angeles,18,21,38.47
+Curb,SUV,Chicago,Los Angeles,8,10,21.78
+Curb,Sedan,Chicago,Phoenix,0,2,65.9
+Uber,Luxury,Phoenix,New York,6,9,33.87
+Lyft,Electric,Chicago,New York,9,10,49.44
+Bolt,Luxury,Phoenix,Chicago,0,3,83.54
+Lyft,Electric,Chicago,New York,3,4,76.82
+Curb,Luxury,Los Angeles,Houston,6,9,40.86
+Curb,Sedan,Chicago,Phoenix,2,5,48.12
+Uber,Electric,Chicago,New York,4,7,98.18
+Bolt,Hatchback,Los Angeles,Phoenix,17,18,20.07
+Curb,Luxury,Los Angeles,New York,17,18,48.68
+Curb,Sedan,New York,Houston,11,12,71.39
+Bolt,Hatchback,New York,Houston,19,22,23.91
+Lyft,Hatchback,Los Angeles,Chicago,0,1,76.29
+Lyft,Electric,Chicago,Phoenix,5,8,19.73
+Lyft,SUV,New York,Phoenix,14,16,37.47
+Uber,SUV,Los Angeles,Chicago,12,14,35.07
+Curb,Luxury,New York,Houston,12,15,98.3
+Uber,Sedan,Phoenix,Chicago,8,9,62.25
+Uber,Luxury,Chicago,New York,13,15,75.57
+Bolt,Luxury,Chicago,Phoenix,3,5,90.96
+Uber,Hatchback,Los Angeles,Houston,0,3,93.3
+Curb,Hatchback,Phoenix,Los Angeles,2,5,92.87
+Uber,Electric,Phoenix,Chicago,16,18,70.02
+Curb,Luxury,Chicago,Phoenix,4,5,47.84
+Bolt,Luxury,Houston,Los Angeles,9,11,59.31
+Curb,SUV,New York,Houston,13,16,64.6
+Ola,Hatchback,Chicago,Phoenix,21,22,56.01
+Curb,Luxury,Los Angeles,New York,21,23,65.73
+Curb,SUV,New York,Chicago,6,7,12.2
+Bolt,Sedan,Los Angeles,Phoenix,14,16,89.75
+Ola,Hatchback,Phoenix,Los Angeles,12,13,23.28
+Ola,SUV,New York,Los Angeles,5,8,56.62
+Uber,Hatchback,New York,Chicago,4,6,70.08
+Ola,Luxury,Phoenix,Chicago,23,23,48.41
+Lyft,Hatchback,Phoenix,Houston,14,16,77.66
+Lyft,Electric,Chicago,Phoenix,14,15,74.22
+Curb,Electric,Los Angeles,Houston,17,18,22.45
+Lyft,SUV,Los Angeles,Phoenix,2,4,46.68
+Ola,Sedan,Phoenix,Houston,6,8,45.05
+Bolt,Hatchback,Phoenix,New York,15,16,94.85
+Ola,Luxury,Chicago,Phoenix,23,23,59.15
+Ola,SUV,Phoenix,Los Angeles,8,10,53.71
+Ola,SUV,Houston,Chicago,14,15,98.26
+Ola,Luxury,Phoenix,New York,18,21,12.44
+Ola,SUV,Houston,Los Angeles,1,3,44.12
+Curb,Electric,Los Angeles,Phoenix,12,14,77.68
+Uber,Hatchback,Houston,Chicago,0,3,58.55
+Uber,Sedan,Chicago,Los Angeles,0,1,27.94
+Lyft,SUV,New York,Chicago,15,18,20.3
+Curb,Electric,Los Angeles,Phoenix,5,8,64.65
+Curb,Sedan,New York,Chicago,18,19,93.6
+Ola,SUV,Phoenix,Houston,2,5,72.16
+Curb,Luxury,Los Angeles,New York,3,6,80.44
+Curb,Sedan,Chicago,Phoenix,16,19,40.71
+Uber,Hatchback,Houston,Phoenix,11,14,90.24

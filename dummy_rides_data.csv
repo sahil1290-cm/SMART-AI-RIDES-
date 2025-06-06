@@ -1,0 +1,101 @@
+RideID,App,From,To,DepartureHour,Price,EstimatedTime
+RIDE001,Lyft,Mumbai,Pune,4,54,1h 15m
+RIDE002,Curb,Hyderabad,Pune,15,94,4h 45m
+RIDE003,Uber,Bangalore,Kolkata,8,14,4h 45m
+RIDE004,Lyft,Chennai,Hyderabad,20,13,3h 45m
+RIDE005,Curb,Delhi,Pune,20,37,3h 15m
+RIDE006,Uber,Bangalore,Chennai,5,38,3h
+RIDE007,Curb,Pune,Kolkata,13,60,4h 45m
+RIDE008,Uber,Delhi,Chennai,6,46,1h 15m
+RIDE009,FlixBus,Kolkata,Hyderabad,6,34,5h 30m
+RIDE010,Metro,Mumbai,Pune,14,66,4h 30m
+RIDE011,Curb,Hyderabad,Bangalore,3,57,5h 30m
+RIDE012,Uber,Mumbai,Chennai,13,80,4h 15m
+RIDE013,Curb,Delhi,Pune,4,63,1h 30m
+RIDE014,Curb,Chennai,Delhi,23,55,5h 45m
+RIDE015,FlixBus,Bangalore,Hyderabad,19,78,3h
+RIDE016,Curb,Pune,Chennai,9,14,5h
+RIDE017,Lyft,Mumbai,Bangalore,12,80,2h 45m
+RIDE018,Lyft,Delhi,Hyderabad,6,16,1h 45m
+RIDE019,Metro,Chennai,Kolkata,19,30,2h
+RIDE020,Lyft,Kolkata,Bangalore,7,92,1h 45m
+RIDE021,FlixBus,Delhi,Kolkata,23,20,4h 30m
+RIDE022,FlixBus,Kolkata,Chennai,4,17,2h 30m
+RIDE023,Metro,Delhi,Bangalore,0,16,1h 30m
+RIDE024,FlixBus,Chennai,Kolkata,12,13,1h 30m
+RIDE025,FlixBus,Bangalore,Delhi,13,11,2h
+RIDE026,Metro,Bangalore,Pune,6,32,1h
+RIDE027,Uber,Kolkata,Chennai,16,51,5h 45m
+RIDE028,Metro,Bangalore,Chennai,22,29,2h 45m
+RIDE029,Lyft,Delhi,Mumbai,4,94,4h 45m
+RIDE030,Lyft,Pune,Kolkata,7,54,4h 15m
+RIDE031,Lyft,Kolkata,Mumbai,6,26,5h 15m
+RIDE032,Curb,Chennai,Pune,19,47,5h 30m
+RIDE033,Lyft,Bangalore,Chennai,8,100,5h 45m
+RIDE034,FlixBus,Pune,Chennai,15,54,3h
+RIDE035,Lyft,Hyderabad,Chennai,21,49,2h
+RIDE036,Metro,Bangalore,Pune,4,75,4h 45m
+RIDE037,Metro,Pune,Hyderabad,2,17,3h 15m
+RIDE038,Curb,Bangalore,Delhi,10,69,1h 30m
+RIDE039,Metro,Delhi,Pune,16,22,2h 30m
+RIDE040,FlixBus,Kolkata,Bangalore,3,76,5h 45m
+RIDE041,Curb,Mumbai,Pune,17,46,2h 45m
+RIDE042,Metro,Kolkata,Pune,6,40,2h 45m
+RIDE043,Curb,Pune,Chennai,2,50,5h 30m
+RIDE044,Uber,Bangalore,Kolkata,4,39,3h 45m
+RIDE045,Uber,Kolkata,Bangalore,6,77,4h 30m
+RIDE046,Curb,Hyderabad,Pune,23,55,2h
+RIDE047,Uber,Chennai,Delhi,3,74,2h
+RIDE048,Uber,Bangalore,Pune,1,28,3h 45m
+RIDE049,Curb,Chennai,Kolkata,20,35,5h 30m
+RIDE050,Uber,Chennai,Kolkata,0,75,3h 45m
+RIDE051,FlixBus,Kolkata,Hyderabad,3,23,5h 15m
+RIDE052,Metro,Mumbai,Pune,3,45,3h 15m
+RIDE053,FlixBus,Mumbai,Pune,1,81,3h 45m
+RIDE054,Metro,Bangalore,Delhi,13,37,1h 30m
+RIDE055,Curb,Delhi,Bangalore,1,52,1h
+RIDE056,Lyft,Chennai,Delhi,12,26,3h 15m
+RIDE057,Curb,Bangalore,Kolkata,11,29,1h
+RIDE058,FlixBus,Delhi,Pune,1,11,4h
+RIDE059,Metro,Kolkata,Chennai,7,62,3h 30m
+RIDE060,FlixBus,Bangalore,Mumbai,20,17,5h 45m
+RIDE061,Curb,Hyderabad,Mumbai,18,49,4h 30m
+RIDE062,Curb,Chennai,Delhi,18,17,5h
+RIDE063,Uber,Bangalore,Mumbai,21,31,2h
+RIDE064,Metro,Mumbai,Delhi,9,25,1h
+RIDE065,Lyft,Pune,Chennai,8,100,1h 15m
+RIDE066,Uber,Bangalore,Pune,22,86,3h
+RIDE067,Lyft,Mumbai,Hyderabad,16,28,3h
+RIDE068,Curb,Kolkata,Delhi,8,51,3h 30m
+RIDE069,FlixBus,Pune,Kolkata,8,77,2h 30m
+RIDE070,Uber,Hyderabad,Chennai,7,90,1h
+RIDE071,FlixBus,Hyderabad,Mumbai,18,91,1h 30m
+RIDE072,Lyft,Kolkata,Hyderabad,19,73,1h
+RIDE073,Uber,Hyderabad,Delhi,6,41,5h 30m
+RIDE074,FlixBus,Kolkata,Bangalore,21,64,3h 15m
+RIDE075,Curb,Kolkata,Delhi,5,93,1h 15m
+RIDE076,Uber,Mumbai,Chennai,22,32,2h 15m
+RIDE077,Lyft,Chennai,Hyderabad,12,47,2h 45m
+RIDE078,FlixBus,Kolkata,Pune,12,80,1h 30m
+RIDE079,Curb,Kolkata,Pune,6,26,1h 15m
+RIDE080,Metro,Kolkata,Pune,18,82,4h 30m
+RIDE081,Curb,Chennai,Hyderabad,16,52,5h
+RIDE082,Lyft,Pune,Chennai,0,84,2h 45m
+RIDE083,FlixBus,Hyderabad,Kolkata,14,20,3h
+RIDE084,FlixBus,Kolkata,Chennai,15,49,1h 45m
+RIDE085,Lyft,Hyderabad,Delhi,10,23,2h 45m
+RIDE086,Lyft,Pune,Bangalore,11,91,4h 45m
+RIDE087,Curb,Delhi,Hyderabad,8,53,3h 30m
+RIDE088,FlixBus,Pune,Kolkata,21,30,2h
+RIDE089,Uber,Delhi,Bangalore,18,65,1h
+RIDE090,FlixBus,Kolkata,Delhi,21,35,3h 30m
+RIDE091,FlixBus,Mumbai,Chennai,1,81,3h 30m
+RIDE092,Uber,Pune,Hyderabad,3,21,5h 30m
+RIDE093,FlixBus,Pune,Chennai,11,18,1h 15m
+RIDE094,FlixBus,Mumbai,Pune,7,35,2h 15m
+RIDE095,FlixBus,Bangalore,Pune,22,38,2h 15m
+RIDE096,Uber,Pune,Delhi,1,91,3h 45m
+RIDE097,Lyft,Mumbai,Bangalore,10,26,4h 45m
+RIDE098,Metro,Bangalore,Mumbai,3,49,5h
+RIDE099,Uber,Bangalore,Hyderabad,15,79,4h
+RIDE100,Curb,Mumbai,Chennai,18,100,1h
